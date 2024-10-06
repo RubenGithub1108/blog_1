@@ -1,8 +1,3 @@
-Esto es un t�tulo para mi primer commit
+Esata es la hitoria de mi primer commit
 
-Esto es un t�tulo centrado
-
-Aqu� va un p�rrafo con negrita, cursiva, subrayado y colores.
-
-
-Y esto de arriba es la foto de unas Suricatas.
+Todo comenzo un lunes 3 de agosto de 2019
